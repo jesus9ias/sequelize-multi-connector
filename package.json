@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-multi-connector",
+  "name": "@jesus9ias/sequelize-multi-connector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "test": ""
   },
   "author": "Jesus Escamilla",
+  "repository": "git://github.com/jesus9ias/sequelize-multi-connector.git",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
